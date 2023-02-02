@@ -1,4 +1,4 @@
-# Prueba Técnica para Serpa Cloud, by Braulio Chávez
+# Prueba Técnica by Braulio Chávez
 
 Para compilar bien el proyecto, se deben ejecutar los siguientes comandos en orden
 
